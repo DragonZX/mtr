@@ -1,6 +1,8 @@
 # .gitignore
 *.o
 *.pyc
+*.suo
+.vs
 
 Makefile
 Makefile.in
